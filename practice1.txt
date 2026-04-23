@@ -1,1 +1,2 @@
 git workshop 1
+hi this is git workshop
