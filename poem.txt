@@ -1,3 +1,8 @@
 Code whispers in the night,
+<<<<<<< HEAD
 Git branches map our way.
 Commits make progress bright.
+=======
+Git branches split the sky.
+Commits make progress bright.
+>>>>>>> poem-feature
