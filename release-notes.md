@@ -1,5 +1,6 @@
 # Release Notes
 
 ## Features
-->feature1
+HEAD
+->feature1 
 ->feature2
